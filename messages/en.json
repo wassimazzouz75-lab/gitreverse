@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "home": "GitReverse",
+    "library": "Library",
+    "signIn": "Sign in",
+    "history": "History",
+    "premium": "Premium & credits",
+    "buyCredits": "Buy credits",
+    "subscription": "Subscription",
+    "signOut": "Sign out"
+  },
+  "common": {
+    "credit": "credit",
+    "credits": "credits"
+  },
+  "cancellation": {
+    "title": "Cancel subscription",
+    "description": "Tell us why you're leaving — your feedback helps us improve.",
+    "reason": "Cancellation reason",
+    "placeholder": "e.g. Not using it enough, switching tools, too expensive…",
+    "minChars": "At least {count} characters required.",
+    "minCharsError": "Please share a bit more detail (at least {count} characters).",
+    "networkError": "Network error. Please try again.",
+    "failedError": "Could not cancel subscription.",
+    "invalidAuth": "Something went wrong. Try signing out and back in.",
+    "successMessage": "Subscription cancelled. Refreshing…",
+    "keep": "Keep my subscription",
+    "confirm": "Cancel subscription",
+    "cancelling": "Cancelling…"
+  },
+  "home": {
+    "title": "GitReverse",
+    "description": "Steal any code and make it your own. Paste a GitHub URL and get a plain-language coding agent prompt you can build from.",
+    "subtitle": "Reverse engineer any GitHub repository into a plain-language coding agent prompt you can build from."
+  },
+  "language": {
+    "label": "Language",
+    "en": "English",
+    "fr": "Français"
+  }
+}
